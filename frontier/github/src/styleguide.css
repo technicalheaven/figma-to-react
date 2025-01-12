@@ -1,0 +1,9 @@
+:root {
+  --color-dark-yellow: rgba(255, 214, 10, 1);
+  --color-light-green: rgba(52, 199, 89, 1);
+  --label-dark-primary: rgba(255, 255, 255, 1);
+  --label-dark-tertiary: rgba(235, 235, 245, 0.3);
+  --label-light-primary: rgba(0, 0, 0, 1);
+  --system-bg-dark-base-primary: rgba(0, 0, 0, 1);
+  --systemgreen-light: rgba(52, 199, 89, 1);
+}
